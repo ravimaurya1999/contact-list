@@ -15,15 +15,15 @@ app.use(express.static('assets'));
 
 var contactList = [
     {
-        name: "Arpan",
+        name: "Ravi",
         phone: "1111111111"
     },
     {
-        name: "Tony Stark",
+        name: "aman",
         phone: "1234567890"
     },
     {
-        name: "Coding Ninjas",
+        name: "shani",
         phone: "12131321321"
     }
 ]
