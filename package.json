@@ -1,0 +1,19 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "description": "a basic contact list to learn express js as a framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ravi"
+  ],
+  "author": "rk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
+}
